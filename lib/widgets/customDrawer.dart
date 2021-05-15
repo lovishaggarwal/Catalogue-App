@@ -35,7 +35,7 @@ class CustomDrawer extends StatelessWidget {
             ListTile(
               leading: Icon(FontAwesomeIcons.userCircle, color: Colors.white),
               title: Text(
-                'Profile',
+                'Home',
                 textScaleFactor: 1.2,
                 style: TextStyle(color: Colors.white),
               ),
@@ -43,7 +43,7 @@ class CustomDrawer extends StatelessWidget {
             ListTile(
               leading: Icon(CupertinoIcons.mail, color: Colors.white),
               title: Text(
-                'Mail Me',
+                'Mail me',
                 textScaleFactor: 1.2,
                 style: TextStyle(color: Colors.white),
               ),
